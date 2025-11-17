@@ -1,0 +1,18 @@
+.card-header h5 {
+  font-weight: 600;
+}
+
+.talent-row {
+  background: #fafafa;
+}
+
+.form-control-plaintext {
+  border: none;
+  background: transparent;
+  padding-top: .35rem;
+  padding-bottom: .35rem;
+}
+
+.small {
+  font-size: .85rem;
+}
